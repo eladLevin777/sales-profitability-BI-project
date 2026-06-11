@@ -30,3 +30,19 @@ Elad Levin
 B.Sc. Industrial Engineering & Management  
 Big Data Specialization  
 Ruppin Academic Center
+
+## Dashboard Gallery
+
+The project includes three interactive dashboards focused on sales performance, operational analysis and employee satisfaction.
+
+### Sales Dashboard
+
+![Sales Dashboard](sales_dashboard.png)
+
+### Sales & Operations Analysis
+
+![Sales & Operations Analysis](sales_operations_dashboard.png)
+
+### Employee Satisfaction Dashboard
+
+![Employee Satisfaction Dashboard](employee_satisfaction_dashboard.png)
